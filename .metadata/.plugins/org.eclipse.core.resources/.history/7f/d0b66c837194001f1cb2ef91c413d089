@@ -1,0 +1,5 @@
+package com.vendor.authentication.config;
+
+public class SecurityConfig {
+
+}

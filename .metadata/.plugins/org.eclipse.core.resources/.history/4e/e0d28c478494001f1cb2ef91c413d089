@@ -1,0 +1,5 @@
+package com.vendor.authentication.web;
+
+public class MainController {
+
+}
